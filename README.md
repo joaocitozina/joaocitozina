@@ -24,15 +24,7 @@ Estou focado em construir uma base sólida nas seguintes tecnologias e ferrament
 * **Ferramentas e IDEs:**
     * Visual Studio 2022
     * Visual Studio Code
-      
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+    * Eclipse IDE
     * Draw.io (para modelagem e diagramação)
 
 ---
