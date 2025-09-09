@@ -1,16 +1,72 @@
-## Hi there 👋
+### 👨‍💻 Sobre Mim
 
-<!--
-**joaocitozina/joaocitozina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💡 Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>. <br>
+  🚀 Em transição de carreira da área de Vendas para a Tecnologia. <br>
+  🌍 Moro em Araraquara, São Paulo. <br>
+  🎮 Nas horas vagas, gosto de me divertir com jogos online, praticar atividades físicas e, claro, apreciar um bom café! <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+
+Estou focado em construir uma base sólida nas seguintes tecnologias e ferramentas:
+
+* **Linguagens de Programação:**
+    * C#
+    * Java
+    * JavaScript
+
+* **Banco de Dados:**
+    * MySQL
+
+* **Ferramentas e IDEs:**
+    * Visual Studio 2022
+    * Visual Studio Code
+      
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+                
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+    * Draw.io (para modelagem e diagramação)
+
+---
+
+### 🎓 Projetos Acadêmicos em Destaque
+
+Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meus conhecimentos:
+
+* **Sistema de Gerenciamento de Biblioteca**
+    * **Descrição:** Uma aplicação console desenvolvida em **Java** que permitia o cadastro, listagem, atualização e remoção de livros e seus respectivos autores.
+    * **Tecnologias:** Java, Eclipse IDE.
+
+* **Sistema "Cofrinho" com Conversão de Moedas**
+    * **Descrição:** Um sistema que simulava um cofrinho digital, onde era possível adicionar moedas de diferentes valores e, ao final, converter o montante total para uma moeda selecionada.
+    * **Tecnologias:** Java, Eclipse IDE.
+
+* **Modelagem de Dados com UML**
+    * **Descrição:** Participei de projetos que envolviam a criação de diagramas UML (como Diagramas de Classe e de Caso de Uso) para planejar e documentar a arquitetura de sistemas.
+
+---
+<div>
+<a href="[https://github.com/joaocitozina](https://github.com/joaocitozina)">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="joao.vitor_br@hotmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" /></a>
+  <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/jvbasouza)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+</p>
