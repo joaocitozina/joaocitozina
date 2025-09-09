@@ -50,15 +50,15 @@ Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meu
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaocitozina/joaocitozina/blob/output/github-contribution-grid-snake.svg)
   
 ### 📫 Como me encontrar
 
 <p align="left">
   <a href="joao.vitor_br@hotmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" /></a>
-  <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/jvbasouza)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/jvbasouza](https://www.linkedin.com/in/jvbasouza)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jvbasouza/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
 </p>
