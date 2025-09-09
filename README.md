@@ -51,7 +51,7 @@ Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meu
   </a>
 </div>
 
-![Snake animation](https://github.com/joaocitozina/joaocitozina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/joaocitozina/joaocitozina/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/joaocitozina/joaocitozina/output/github-contribution-grid-snake.svg))
 
 ---
 
