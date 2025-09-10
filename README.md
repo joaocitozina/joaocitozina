@@ -1,7 +1,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="left">
-  💡 Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>. <br>
+  💡 Atualmente cursando <strong>Sistemas de Informação</strong>. <br>
   🚀 Em transição de carreira da área de Vendas para a Tecnologia. <br>
   🌍 Moro em Araraquara, São Paulo. <br>
   🎮 Nas horas vagas, gosto de me divertir com jogos online, praticar atividades físicas e, claro, apreciar um bom café! <br>
