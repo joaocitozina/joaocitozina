@@ -38,13 +38,7 @@ Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meu
 * **Modelagem de Dados com UML**
     * **Descrição:** Participei de projetos que envolviam a criação de diagramas UML (como Diagramas de Classe e de Caso de Uso) para planejar e documentar a arquitetura de sistemas.
 
----
-### 📊 Minhas Estatísticas no GitHub
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocitozina&layout=compact&langs_count=7&theme=dracula&cache_bust=1701415856"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_bust=1701415856"/>
-
----
 
 ### 📫 Como me encontrar
 
