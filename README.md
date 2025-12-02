@@ -1,11 +1,9 @@
 ### 👨‍💻 Sobre Mim
 
-<p align="left">
-  💡 Atualmente cursando <strong>Sistemas de Informação</strong>. <br>
-  🚀 Em transição de carreira da área de Vendas para a Tecnologia. <br>
-  🌍 Moro em Araraquara, São Paulo. <br>
-  🎮 Nas horas vagas, gosto de me divertir com jogos online, praticar atividades físicas e, claro, apreciar um bom café! <br>
-</p>
+💡 Atualmente cursando **Sistemas de Informação**.
+🚀 Em transição de carreira da área de Vendas para a Tecnologia.
+🌍 Moro em Araraquara, São Paulo.
+🎮 Nas horas vagas, gosto de me divertir com jogos online, praticar atividades físicas e, claro, apreciar um bom café!
 
 ---
 
@@ -44,23 +42,16 @@ Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meu
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div>
-  <a href="https://github.com/joaocitozina">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocitozina&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocitozina&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ---
 
 ### 📫 Como me encontrar
 
-<p align="left">
-  <a href="mailto:joao.vitor_br@hotmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/jvbasouza/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-  </a>
-</p>
+<a href="mailto:joao.vitor_br@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/in/jvbasouza/">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
