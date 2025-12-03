@@ -23,12 +23,6 @@ Estou focado em construir uma base sólida nas seguintes tecnologias e ferrament
     * Eclipse IDE
     * Draw.io (para modelagem e diagramação)
       
-### 📊 Minhas Estatísticas no GitHub
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocitozina&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
----
 ---
 
 ### 🎓 Projetos Acadêmicos em Destaque
