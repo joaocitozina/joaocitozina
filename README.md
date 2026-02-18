@@ -15,8 +15,11 @@ Estou focado em construir uma base sólida nas seguintes tecnologias e ferrament
     * C#
     * Java
     * JavaScript
+    * Python
+    
 * **Banco de Dados:**
     * MySQL
+    * MongoDB
 * **Ferramentas e IDEs:**
     * Visual Studio 2022
     * Visual Studio Code
