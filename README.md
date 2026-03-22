@@ -44,6 +44,7 @@ Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meu
 
 
 ---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Como me encontrar
 
