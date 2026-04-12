@@ -1,56 +1,48 @@
-### 👨‍💻 Sobre Mim
+# Olá, eu sou o João Vitor! 👋
 
-💡 Atualmente cursando **Sistemas de Informação**.
-🚀 Em transição de carreira da área de Vendas para a Tecnologia.
-🌍 Moro em Araraquara, São Paulo.
-🎮 Nas horas vagas, gosto de me divertir com jogos online, praticar atividades físicas e, claro, apreciar um bom café!
+Estudante de **Sistemas de Informação** na Uninter e desenvolvedor focado no ecossistema **Back-end**. Atualmente, estou em transição de carreira para a área de tecnologia, aplicando meus conhecimentos em C# e .NET para criar APIs robustas e escaláveis.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-Estou focado em construir uma base sólida nas seguintes tecnologias e ferramentas:
-
-* **Linguagens de Programação:**
-    * C#
-    * Java
-    * JavaScript
-    * Python
-    
-* **Banco de Dados:**
-    * MySQL
-    * MongoDB
-* **Ferramentas e IDEs:**
-    * Visual Studio 2022
-    * Visual Studio Code
-    * Eclipse IDE
-    * Draw.io (para modelagem e diagramação)
-      
----
-
-### 🎓 Projetos Acadêmicos em Destaque
-
-Durante a faculdade, desenvolvi alguns projetos que me ajudaram a consolidar meus conhecimentos:
-
-* **Sistema de Gerenciamento de Biblioteca**
-    * **Descrição:** Uma aplicação console desenvolvida em **Java** que permitia o cadastro, listagem, atualização e remoção de livros e seus respectivos autores.
-    * **Tecnologias:** Java, Eclipse IDE.
-* **Sistema "Cofrinho" com Conversão de Moedas**
-    * **Descrição:** Um sistema que simulava um cofrinho digital, onde era possível adicionar moedas de diferentes valores e, ao final, converter o montante total para uma moeda selecionada.
-    * **Tecnologias:** Java, Eclipse IDE.
-* **Modelagem de Dados com UML**
-    * **Descrição:** Participei de projetos que envolviam a criação de diagramas UML (como Diagramas de Classe e de Caso de Uso) para planejar e documentar a arquitetura de sistemas.
-
-
+- **Linguagens:** C#, Python, JavaScript
+- **Back-end:** ASP.NET Core (.NET 6/8), Entity Framework Core, REST APIs
+- **Banco de Dados:** PostgreSQL, SQL Server
+- **DevOps & Tools:** Git, GitHub, Swagger (OpenAPI), n8n (Automação)
+- **Front-end:** React (Básico/Integração), HTML5, CSS3
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=joaocitozina&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-### 📫 Como me encontrar
+### 📂 Projetos em Destaque
 
-<a href="mailto:joao.vitor_br@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/jvbasouza/">
-  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
+#### 🎬 [API de Gerenciamento de Filmes](https://github.com/joaocitozina/nome-do-repo)
+API RESTful desenvolvida com **ASP.NET Core** para controle de catálogo cinematográfico. 
+- Implementação de CRUD completo.
+- Documentação interativa via **Swagger**.
+- Persistência de dados e boas práticas de arquitetura.
+
+#### 🎮 [Deep Sea Rescue](https://github.com/joaocitozina/nome-do-repo-game)
+Jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**.
+- Projeto acadêmico focado em lógica de programação e tratamento de colisões.
+- Gerenciamento de estados de jogo e assets.
+
+#### 🚚 [Simulador de Cotação de Frete](https://github.com/joaocitozina/nome-do-repo-frete)
+Solução integrada para automação de logística.
+- Frontend em **React** integrado com **n8n** para orquestração.
+- Banco de dados **PostgreSQL** para armazenamento de histórico e tabelas de preços.
+
+---
+
+### 🎓 Educação e Certificações
+
+- **Bacharelado em Sistemas de Informação** – Uninter (Em curso - 3º Semestre)
+- **Formação .NET e C#** – Alura
+- **Certificações Cisco Networking Academy**
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvbasouza/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
