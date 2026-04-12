@@ -16,21 +16,17 @@ Estudante de **Sistemas de Informação** na Uninter e desenvolvedor focado no e
 
 ### 📂 Projetos em Destaque
 
-#### 🎬 [API de Gerenciamento de Filmes](https://github.com/joaocitozina/nome-do-repo)
+#### 🎬 [API de Gerenciamento de Filmes](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_AQUI)
 API RESTful desenvolvida com **ASP.NET Core** para controle de catálogo cinematográfico. 
-- Implementação de CRUD completo.
-- Documentação interativa via **Swagger**.
-- Persistência de dados e boas práticas de arquitetura.
+- Implementação de CRUD completo e documentação via **Swagger**.
 
-#### 🎮 [Deep Sea Rescue](https://github.com/joaocitozina/nome-do-repo-game)
+#### 🎮 [Deep Sea Rescue](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_DO_JOGO)
 Jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**.
-- Projeto acadêmico focado em lógica de programação e tratamento de colisões.
-- Gerenciamento de estados de jogo e assets.
+- Projeto focado em lógica de programação e tratamento de colisões.
 
-#### 🚚 [Simulador de Cotação de Frete](https://github.com/joaocitozina/nome-do-repo-frete)
+#### 🚚 [Simulador de Cotação de Frete](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_DE_FRETE)
 Solução integrada para automação de logística.
-- Frontend em **React** integrado com **n8n** para orquestração.
-- Banco de dados **PostgreSQL** para armazenamento de histórico e tabelas de preços.
+- Frontend em **React** integrado com **n8n** e banco **PostgreSQL**.
 
 ---
 
