@@ -20,7 +20,7 @@ Estudante de **Sistemas de Informação** na Uninter e desenvolvedor focado no e
 API RESTful desenvolvida com **ASP.NET Core** para controle de catálogo cinematográfico. 
 - Implementação de CRUD completo e documentação via **Swagger**.
 
-#### 🎮 [Deep Sea Rescue](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_DO_JOGO)
+#### 🎮 [Deep Sea Rescue](https://github.com/joaocitozina/DeepSeaRescue)
 Jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**.
 - Projeto focado em lógica de programação e tratamento de colisões.
 
