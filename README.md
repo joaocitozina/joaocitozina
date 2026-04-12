@@ -16,7 +16,7 @@ Estudante de **Sistemas de Informação** na Uninter e desenvolvedor focado no e
 
 ### 📂 Projetos em Destaque
 
-#### 🎬 [API de Gerenciamento de Filmes](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_AQUI)
+#### 🎬 [API de Gerenciamento de Filmes](https://github.com/joaocitozina/FilmesAPI-Com-Alura)
 API RESTful desenvolvida com **ASP.NET Core** para controle de catálogo cinematográfico. 
 - Implementação de CRUD completo e documentação via **Swagger**.
 
@@ -24,7 +24,7 @@ API RESTful desenvolvida com **ASP.NET Core** para controle de catálogo cinemat
 Jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**.
 - Projeto focado em lógica de programação e tratamento de colisões.
 
-#### 🚚 [Simulador de Cotação de Frete](https://github.com/joaocitozina/NOME_EXATO_DO_SEU_REPOSITORIO_DE_FRETE)
+#### 🚚 [Simulador de Cotação de Frete](https://github.com/joaocitozina/simulador-frete-joao)
 Solução integrada para automação de logística.
 - Frontend em **React** integrado com **n8n** e banco **PostgreSQL**.
 
